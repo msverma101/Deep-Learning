@@ -1,7 +1,7 @@
 ## Deep-Learning
 
-End to end Deep learning notebook to create a neural network with 
-manual and automated hyperparameter optimisation
-Evaluation metric as R2 Squared
-pointcloud data manupulation
-Results visualisation
+End to end Deep learning notebook to create a neural network:
+1. manual and automated hyperparameter optimisation
+2. Evaluation metric as R2 Squared
+3. Oointcloud data manupulation
+4. Results visualisation
